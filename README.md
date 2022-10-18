@@ -1,10 +1,10 @@
-Hi👋, Usman here, an IT-AV Engineer and a cyber-security enthusiast
+Hi👋, Usman here, an IT-AV-Cybersecurity Engineer
 
 Here's a little bit about me:
 
-    - 🌱 I'm currently studying for the Comptia Security+ as my first cyber-security certification 
+    - 🌱 I completed the Comptia Security+ certification in October 2022 
     - 👀 I’m interested in Cryptography, Malware Analysis and Red Teaming 
-    - 🌱 I’m currently learning and working my way up the TryHackMe Ladder 
+    - 🌱 I’m currently working my way up the TryHackMe Ladder 
     - 💞️ I’m looking to collaborate on projects related to cyber-security
     - 📫 How to reach me https://www.linkedin.com/in/usmankhanuskh/ (Open to all connections)
     

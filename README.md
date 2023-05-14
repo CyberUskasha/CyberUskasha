@@ -1,4 +1,4 @@
-Hi👋, Usman here, an IT-AV-Cybersecurity Engineer
+Hi👋, Usman here, an Cybersecurity Engineer
 
 Here's a little bit about me:
 

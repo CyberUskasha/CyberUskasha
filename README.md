@@ -1,5 +1,3 @@
-Hi👋, Usman here
-
 # About Me
 
 **A passionate IT Support Engineer with 7+ years of experience in delivering comprehensive technical solutions.** 
